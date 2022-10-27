@@ -1,0 +1,2 @@
+Greetings from git test file
+This file is for testing purposes
